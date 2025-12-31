@@ -1,0 +1,64 @@
+{
+  "version": 1,
+  "base_track": "初雪",
+  "base_artist": "AYANE",
+  "createdAt": "2025-12-31T03:36:05.519742Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "初雪 The First Snow",
+      "artist": "EXO",
+      "has_synced": true,
+      "path": "select/01_初雪_The_First_Snow_EXO.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "初雪 (The First Snow)",
+      "artist": "EXO-M",
+      "has_synced": true,
+      "path": "select/02_初雪_(The_First_Snow)_EXO-M.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "初雪 (The First Snow)",
+      "artist": "EXO",
+      "has_synced": true,
+      "path": "select/03_初雪_(The_First_Snow)_EXO.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "初雪",
+      "artist": "IOSYS",
+      "has_synced": true,
+      "path": "select/04_初雪_IOSYS.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "初雪",
+      "artist": "HY",
+      "has_synced": true,
+      "path": "select/05_初雪_HY.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "初雪 The First Snow",
+      "artist": "EXO",
+      "has_synced": true,
+      "path": "select/06_初雪_The_First_Snow_EXO.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "初雪",
+      "artist": "AYANE",
+      "has_synced": false,
+      "path": "select/pl_01_初雪_AYANE.txt"
+    }
+  ]
+}
